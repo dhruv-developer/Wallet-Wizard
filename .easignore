@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+build/
+dist/
+.git/
+*.log
+*.tmp
+ios/Pods/
